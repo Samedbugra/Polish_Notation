@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "onMQ0pVLbIyd7N3MDiSN7t9/tANz8bIyL87PH3OlIkLZ3aK/9l7/rMEYqlSFY3UqZ7VDaYrdd1TpnEPwagAQmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samed Buğra KARATAŞ\\Desktop\\Karışık\\Odev24_25\\Polish Notation\\Polish Notation\\Polish Notation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Samed Buğra KARATAŞ\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

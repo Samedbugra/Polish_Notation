@@ -1,0 +1,44 @@
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.deps.json
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.json
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.dev.json
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csprojResolveAssemblyReference.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csproj.CoreCompileInputs.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfoInputs.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfo.cs
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.deps.json
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.json
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.dev.json
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csprojResolveAssemblyReference.cache
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csproj.CoreCompileInputs.cache
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfoInputs.cache
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfo.cs
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Malii\Desktop\Yeni klasör\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.deps.json
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.json
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.dev.json
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csprojAssemblyReference.cache
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfoInputs.cache
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfo.cs
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\bugra\Desktop\Odev23_24\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.deps.json
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.json
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.runtimeconfig.dev.json
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\bin\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csprojAssemblyReference.cache
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfoInputs.cache
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.AssemblyInfo.cs
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.csproj.CoreCompileInputs.cache
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.dll
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.pdb
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\Polish Notation\Polish Notation\obj\Debug\netcoreapp2.0\Polish Notation.genruntimeconfig.cache
